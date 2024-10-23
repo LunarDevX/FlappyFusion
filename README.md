@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/FF 300ppi_Feature graphic.png" alt="Logo" width="900"/>
+  <img src="images/FF_Feature graphic.png" alt="Logo" width="900"/>
 </div>
 
 [![Play Store](https://img.shields.io/badge/Get%20it%20on-Play%20Store-green)](https://play.google.com/store/apps/details?id=com.flappyfusion.game)
@@ -10,7 +10,7 @@ FlappyFusion is a mobile game based on the original **Flappy Bird**, with update
 ## Overview
 
 - 🎮 **Flappy Fusion** brings a new visual style and refined gameplay mechanics inspired by the original Flappy Bird.
-- 🚀 **Available on the Play Store**: [Play FlappyFusion on Google Play](https://play.google.com/store/apps/details?id=com.flappyfusion.game).
+- 🚀 **Available on the Play Store**: <a href="https://play.google.com/store/apps/details?id=com.flappyfusion.game" target="_blank">Play FlappyFusion on Google Play</a>.
 
 ## Technologies Used
 
@@ -29,19 +29,19 @@ FlappyFusion is a mobile game based on the original **Flappy Bird**, with update
 
 This repository exists to showcase my work on Flappy Fusion - A New Twist. While the complete source code will remain private, I have included certain sections and insights into the project to provide a better understanding of the techniques and technologies used in the game's development.
 
-
 ## Screenshots
 
 <div align="center">
-  <img src="images/FF 300ppi_SC01.png" alt="FlappyFusion Screenshot " width="300"/>
-  <img src="images/FF 300ppi_SC02.png" alt="FlappyFusion Screenshot 2" width="300"/>
+  <img src="images/FF_SC01.png" alt="FlappyFusion Screenshot " width="300"/>
+  <img src="images/FF_SC02.png" alt="FlappyFusion Screenshot 2" width="300"/>
 </div>
 
 <div align="center">
-  <img src="images/FF 300ppi_SC03.png" alt="FlappyFusion Screenshot 3 " width="300"/>
-  <img src="images/FF 300ppi_SC04.png" alt="FlappyFusion Screenshot 3" width="300"/>
+  <img src="images/FF_SC03.png" alt="FlappyFusion Screenshot 3 " width="300"/>
+  <img src="images/FF_SC04.png" alt="FlappyFusion Screenshot 3" width="300"/>
 </div>
 
 ## License
 
 This project is not open source. All code, assets, and resources are proprietary by me and cannot be used or distributed without permission.
+
